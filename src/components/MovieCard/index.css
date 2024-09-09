@@ -1,0 +1,32 @@
+.movieCardBgContainer {
+  list-style-type: none;
+  background-color: rgb(29, 28, 28);
+  padding: 10px;
+  display: flex;
+  margin: 10px;
+  border-width: 0px;
+  border-radius: 8px;
+}
+.posterImageStyle {
+  width: 220px;
+  height: 180px;
+}
+.contentContainer {
+  margin-left: 10px;
+}
+.movieName {
+  color: white;
+  font-size: 28px;
+}
+.movieRating {
+  color: white;
+}
+.viewDetailsBtn {
+  padding: 10px;
+  background-color: rgb(66, 66, 198);
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  border-width: 0px;
+  cursor: pointer;
+}

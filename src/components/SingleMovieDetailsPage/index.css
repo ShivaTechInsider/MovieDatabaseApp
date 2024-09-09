@@ -1,0 +1,25 @@
+.singleMoviePosterBgContainer {
+  background-color: black;
+  /* height: 100vh; */
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.posterStyle {
+  height: 400px;
+  width: 400px;
+}
+.titleHeading {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+}
+.rating {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}

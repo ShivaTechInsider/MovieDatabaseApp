@@ -1,0 +1,48 @@
+.navBgContainer {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+.movieDbBg {
+  width: 80px;
+  height: 80px;
+  border-width: 0px;
+  border-radius: 50%;
+  background-color: rgb(31, 31, 32);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.movieDbHeading {
+  font-size: 15px;
+  color: white;
+}
+.btnsListContainer {
+  list-style-type: none;
+  display: flex;
+}
+.movieTypeListItem {
+  color: white;
+}
+.movieTypeBtn {
+  color: white;
+  border: none;
+  border-width: 0px;
+  background-color: transparent;
+  margin: 6px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+.searchBgConatiner {
+}
+.searchInputStyle {
+  background-color: white;
+  padding: 10px;
+  border-width: 1px solid gray;
+  color: black;
+  border-radius: 8px;
+}
